@@ -1,5 +1,4 @@
-TODO: look these all up and provide proper links/attribution, etc
 
-Make things as simple as possible, no simpler -- Einstein
+1. [Make things as simple as possible, no simpler](http://c2.com/cgi/wiki?EinsteinPrinciple)
 
-  if you make it as complex as possible, by definition you are not smart enough to debug it because debugging is harder than programming -- dunno who
+  * [Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?](http://www.linusakesson.net/programming/kernighans-lever/) -- also other people **might** need to understand your solution
