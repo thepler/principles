@@ -6,3 +6,5 @@
 3. [The Twelve-Factor App](http://12factor.net/)
 
 4. [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
+
+5. [SOLID](https://en.wikipedia.org/wiki/SOLID)
