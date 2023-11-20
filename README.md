@@ -9,3 +9,5 @@
 3. [Separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns)
 
 4. [SOLID](https://en.wikipedia.org/wiki/SOLID)
+
+5. Rapid iteration. Iteration speed.
