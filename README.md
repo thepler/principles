@@ -10,4 +10,4 @@
 
 4. [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
-5. Rapid iteration. Iteration speed.
+5. Rapid iteration. Iteration speed. Fail fast.
